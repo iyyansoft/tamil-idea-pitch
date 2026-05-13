@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+.DS_Store
+.streamlit/secrets.toml
+
+data/Engineering/Posts.xml
+data/SoftwareEngineering/Posts.xml
+data/cs/Posts.xml
+data/networkengineering/Posts.xml
+
+output/tamil_feature_dataset.csv
+output/tamil_feature_dataset.jsonl
+output/tamil_feature_dataset_labeled_full_backup.csv
